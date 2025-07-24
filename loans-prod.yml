@@ -1,0 +1,11 @@
+build:
+  version: "loans-1.1"
+
+loans:
+  message: 'Welcome to Loans microservice PROD Environment'
+  contactDetails:
+    name: 'Amir Loans Prod'
+    email: 'amir@loans-prod.com'
+  onCallSupport:
+    - (+91) 7777777777
+     (+91) 6666666666

@@ -1,0 +1,11 @@
+build:
+  version: "cards-1.1"
+
+cards:
+  message: 'Welcome to Cards microservice PROD Environment'
+  contactDetails:
+    name: 'Amir Cards Prod'
+    email: 'amir@cards-prod.com'
+  onCallSupport:
+    - (+91) 7777777777
+     (+91) 6666666666

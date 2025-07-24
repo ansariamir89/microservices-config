@@ -1,0 +1,11 @@
+build:
+  version: 1.2
+
+accounts:
+  message: 'Welcome to Account microservice QA Environment'
+  contactDetails:
+    name: 'Amir QA'
+    email: 'amir@qa.com'
+  onCallSupport:
+    - (+91) 7777777777
+    - (+91) 6666666666

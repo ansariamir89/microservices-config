@@ -1,0 +1,11 @@
+build:
+  version: "cards-1.2"
+
+cards:
+  message: 'Welcome to Cards microservice QA Environment'
+  contactDetails:
+    name: 'Amir Cards QA'
+    email: 'amir@cards-qa.com'
+  onCallSupport:
+    - (+91) 7777777777
+    - (+91) 6666666666

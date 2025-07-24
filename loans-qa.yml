@@ -1,0 +1,11 @@
+build:
+  version: "loans-1.2"
+
+loans:
+  message: 'Welcome to Loans microservice QA Environment'
+  contactDetails:
+    name: 'Amir Loans QA'
+    email: 'amir@loans-qa.com'
+  onCallSupport:
+    - (+91) 7777777777
+    - (+91) 6666666666
