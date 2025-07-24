@@ -5,7 +5,7 @@ accounts:
   message: 'Welcome to Account microservice PROD Environment'
   contactDetails:
     name: 'Amir PROD'
-    email: 'amir@prod.com'
+    email: '{cipher}f31198098206c428022fe1d1b527ee7005e006d910e9fd80c1a31bd1313ae992'
   onCallSupport:
     - (+91) 5555555555
     - (+91) 4444444444
