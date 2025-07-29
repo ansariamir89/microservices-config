@@ -2,7 +2,7 @@ build:
   version: "loans-1.1"
 
 loans:
-  message: 'Welcome to Loans microservice PROD Environment'
+  message: 'Welcome to Loans microservice production Environment'
   contactDetails:
     name: 'Amir Loans Prod'
     email: 'amir@loans-prod.com'
