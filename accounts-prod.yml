@@ -2,7 +2,7 @@ build:
   version: 1.1
 
 accounts:
-  message: 'Welcome to Account microservice PROD Environment'
+  message: 'Welcome to Account microservice production Environment'
   contactDetails:
     name: 'Amir PROD'
     email: '{cipher}f31198098206c428022fe1d1b527ee7005e006d910e9fd80c1a31bd1313ae992'
