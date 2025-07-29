@@ -2,7 +2,7 @@ build:
   version: "cards-1.1"
 
 cards:
-  message: 'Welcome to Cards microservice PROD Environment'
+  message: 'Welcome to Cards microservice production Environment'
   contactDetails:
     name: 'Amir Cards Prod'
     email: 'amir@cards-prod.com'
